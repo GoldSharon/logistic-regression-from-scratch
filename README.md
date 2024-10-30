@@ -23,7 +23,7 @@ This project implements Logistic Regression from scratch using Python and NumPy,
         git clone https://github.com/your-username/logistic-regression-from-scratch.git
 2. Install the dependencies:
    ```bash
-   pip install numpy pandas
+      pip install numpy pandas
 
 ### Usage
 
